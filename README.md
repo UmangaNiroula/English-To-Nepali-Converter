@@ -3,10 +3,15 @@
 This Python application provides a simple GUI-based tool to convert numbers from English digits to Preeti font, commonly used for Nepali text formatting. It processes CSV files, formats numbers in both English and Nepali styles, and exports them for easy use.
 
 🔹 Key Features:
+
 ✅ Convert English numbers to Preeti font for Nepali text compatibility
+
 ✅ Supports both English and Nepali number formatting styles
+
 ✅ User-friendly GUI built with Tkinter
+
 ✅ Secure 90-day trial system with an activation key mechanism
+
 ✅ CSV file processing for bulk conversion
 
 This tool is ideal for users handling financial or textual data in Nepali typography. Try it now and streamline your workflow! 🚀
